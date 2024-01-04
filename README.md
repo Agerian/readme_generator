@@ -24,6 +24,7 @@ This command-line application dynamically generates a professional README.md fil
 Run the application using the following command: <node index.js> 
 Answer the prompts to provide information about your project. The application will generate a README.md file in the project's root direcotry.
 
+Video(https://drive.google.com/file/d/1sHiBBjHT6HmPpxW3qNmMrxNzXfGiWKbh/view)
 ## License
 [![MIT License License](https://img.shields.io/badge/license-MIT%20License-green)](https://opensource.org/licenses/MIT%20License)
 
